@@ -1,10 +1,10 @@
 # ✨PLANEAT - 식단 기록 및 영양 분석 서비스
 
-<img src="/uploads/85cde0727437ca607614d620fa261758/PLANEAT_banner.png">
+<img src="https://user-images.githubusercontent.com/55011885/203729608-64da75d1-ce4a-4197-8562-ea8a389bb6ff.png">
 
 ## 👉 [PLANEAT 체험해보기](https://j7a701.p.ssafy.io/)
 
-## 📹 시연 및 소개 영상 보기 : [UCC 링크](/uploads/d4d190081eb856476779c0370aa6136c/PLANEAT_UCC.mp4)
+## 📹 시연 및 소개 영상 보기 : [UCC 링크](https://user-images.githubusercontent.com/55011885/203731886-83ca76b2-8973-47b7-9895-2b8433ad2d00.mp4)
 
 <br/>
 
@@ -69,25 +69,25 @@
 ## 🖥️ 화면 구성
 
 - ### 홈 화면
-![홈](/uploads/5368c535a1adb8e42aa69010ef26e1bb/홈.gif)
+![홈]()
 <br/>
 - ### 소셜로그인 후 회원가입 페이지
-![회원가입](/uploads/6b2e830e604d00cdcf2e1031a6788160/회원가입.gif)
+![회원가입]()
 <br/>
 - ### 회원 정보 수정
-![회원정보_수정](/uploads/5334d03d8818b965561adf33bb61f586/회원정보_수정.gif)
+![회원정보_수정]()
 <br/>
 - ### 영양제 추천 & 검색 페이지
-![영양제](/uploads/af6d9f35bed6450b2476aa476ee0fcbf/영양제.gif)
+![영양제]()
 <br/>
 - ### 식단 등록
-![식단등록](/uploads/a6fce52a9c4d27d074caa0a3e103050f/식단등록.gif)
+![식단등록]()
 <br/>
 - ### 식사 및 영양제 섭취 기록 페이지
-![식사기록_+_영양제_기록](/uploads/306b612db36f477121bef8d819508052/식사기록_+_영양제_기록.gif)
+![식사기록_+_영양제_기록]()
 <br/>
 - ### 섭취 기록 바탕 영양 분석 페이지
-![영양분석](/uploads/91acd711e4f2d99621bfd32016ae7df9/영양분석.gif)
+![영양분석]()
 
 <br/>
 <br/>
@@ -135,13 +135,13 @@
 
 ## 📰 ERD
 
-![서비스_아키텍처](/uploads/a1fb8a6864073c6bab8c5c6fe33efa88/PLANEAT_ERD.png)
+![PLANEAT_ERD](https://user-images.githubusercontent.com/55011885/203732929-3c581d33-280d-475c-9edf-102340c24f26.png)
 <br/>
 <br/>
 
 ## 📝 시스템 아키텍처
 
-![서비스_아키텍처](/uploads/0cac7b9d7d20b7cd68ceb3328730a4d4/PLANEAT_architecture.PNG)
+![서비스_아키텍처](https://user-images.githubusercontent.com/55011885/203732996-334c39aa-86de-47b0-8177-7110df1f192b.PNG)
 <br/>
 <br/>
 
@@ -233,7 +233,7 @@ planeat-front
 
 ---
 
-![역할 분배](/uploads/223cf45269bf23b9083e4077b138f9c7/PLANEAT_member.PNG)
+![역할 분배](https://user-images.githubusercontent.com/55011885/203733057-74ed7992-54bf-4fc3-8f2d-80542b2c6ee0.PNG)
 
 - 팀장 : [신지한](https://github.com/shinzan7)
 - 팀원 : [박윤하](https://github.com/0atx)
@@ -260,7 +260,7 @@ planeat-front
 
 ## 🗃️ 프로젝트 결과물
 
-- [포팅 매뉴얼](/uploads/02e7df52d51d010f9c45ea02cab37657/PLANEAT_포팅매뉴얼.pdf)
-- [시연 시나리오](/uploads/24d2afd19d26ad7b5d1ee72a46919e48/PLANEAT_시연_시나리오.pdf)
-- [중간 발표자료](/uploads/e99e1d9fc93b5096d727d9bc51309cc2/PLANEAT_중간발표.pdf)
-- [최종 발표자료](/uploads/f4903ce4cae0e67e79cd496d0ca3ea76/PLANEAT_최종_발표.pdf)
+- [포팅 매뉴얼](https://github.com/0atx/PLANEAT/files/10082142/PLANEAT_.pdf))
+- [시연 시나리오](https://github.com/0atx/PLANEAT/files/10082138/PLANEAT.pdf))
+- [중간 발표자료](https://github.com/0atx/PLANEAT/files/10082146/PLANEAT.pdf)
+- [최종 발표자료](https://github.com/0atx/PLANEAT/files/10082143/PLANEAT.pdf)
