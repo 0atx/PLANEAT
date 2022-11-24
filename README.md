@@ -69,25 +69,25 @@
 ## 🖥️ 화면 구성
 
 - ### 홈 화면
-![홈]()
+![홈](https://user-images.githubusercontent.com/55011885/203736942-99e5c9e1-b731-4dd1-a4da-65f8e4cd2643.gif)
 <br/>
 - ### 소셜로그인 후 회원가입 페이지
-![회원가입]()
+![회원가입](https://user-images.githubusercontent.com/55011885/203735548-8a6c46c4-faa3-43b5-b527-a66b2bf0b890.gif)
 <br/>
 - ### 회원 정보 수정
-![회원정보_수정]()
+![회원정보_수정](https://user-images.githubusercontent.com/55011885/203734486-224d74af-5050-4620-95de-0f0b7ae781ae.gif)
 <br/>
 - ### 영양제 추천 & 검색 페이지
-![영양제]()
+![영양제](https://user-images.githubusercontent.com/55011885/203735484-5d402a3b-b3af-406f-b788-70fca413d051.gif)
 <br/>
 - ### 식단 등록
-![식단등록]()
+![식단등록](https://user-images.githubusercontent.com/55011885/203733820-1835f657-ce20-402e-a7ce-fcebad513cbd.gif)
 <br/>
 - ### 식사 및 영양제 섭취 기록 페이지
-![식사기록_+_영양제_기록]()
+![식사기록_+_영양제_기록](https://user-images.githubusercontent.com/55011885/203733870-1c652477-fb9a-4dba-9230-13ee23f9f69d.gif)
 <br/>
 - ### 섭취 기록 바탕 영양 분석 페이지
-![영양분석]()
+![영양분석](https://user-images.githubusercontent.com/55011885/203733926-00cc328b-762a-4b88-bec7-3d6dd5e35611.gif)
 
 <br/>
 <br/>
@@ -107,10 +107,7 @@
 - Swagger 3.0.0
 - MySQL 8.0.29
 - Hibernate 5.6.9 Final
-
-**Backend - Hadoop**
-
-
+- Hadoop
 
 **Frontend - React**
 
@@ -192,6 +189,7 @@ planeat-front
 ```
 <br/>
 <br/>
+
 ## 💻 협업 툴
 
 ---
@@ -260,7 +258,7 @@ planeat-front
 
 ## 🗃️ 프로젝트 결과물
 
-- [포팅 매뉴얼](https://github.com/0atx/PLANEAT/files/10082142/PLANEAT_.pdf))
-- [시연 시나리오](https://github.com/0atx/PLANEAT/files/10082138/PLANEAT.pdf))
+- [포팅 매뉴얼](https://github.com/0atx/PLANEAT/files/10082142/PLANEAT_.pdf)
+- [시연 시나리오](https://github.com/0atx/PLANEAT/files/10082138/PLANEAT.pdf)
 - [중간 발표자료](https://github.com/0atx/PLANEAT/files/10082146/PLANEAT.pdf)
 - [최종 발표자료](https://github.com/0atx/PLANEAT/files/10082143/PLANEAT.pdf)
